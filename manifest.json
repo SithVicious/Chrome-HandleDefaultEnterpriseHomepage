@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "Enterprise Homepage Override",
+  "author": {
+    "email": "paul@nwit.info"
+  },
+  "version": "1.0",
+  "background": {
+    "service_worker": "extension.js"
+  },
+  "permissions": [
+    "tabs"
+  ]
+}
